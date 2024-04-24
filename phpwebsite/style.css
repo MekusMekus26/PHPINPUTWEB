@@ -1,0 +1,166 @@
+
+body{
+  background-color:burlywood;
+  padding:2vw;
+}
+button{
+  font-size:3vw;
+  color:black;
+  background-color:bisque;
+  border-color:goldenrod;
+  border-radius:1.5vh;
+border: 0.3vh solid #daa520;
+padding:2vw;
+}
+
+#img1{
+  border: 0.3vh solid #daa520;
+}
+
+#img2{
+  border: 0.3vh solid #daa520;
+ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:30vh;
+
+  
+}
+       h1{ 
+         
+border: 0.3vh solid #daa520;
+         font-size:5vw;
+         font-family:Georgia,serif;
+         background-color:blanchedalmond;
+         border-radius:1.5vh;
+         text-align:center;
+         text-shadow: 2px 2px 6px;
+         padding:2vw;
+       }
+       
+       p{
+border: 0.3vh solid #daa520;
+background-color:blanchedalmond;
+border-radius:1.5vh;
+font-size:3vw;
+padding:2vw;
+       }
+       
+       .perez{
+        border: 0.3vh solid #daa520;
+        background-color:blanchedalmond;
+        border-radius:1.5vh;
+        font-size:3vw;
+        padding:2vw;
+               }
+               
+       
+        body{
+          
+          font-family:Georgia,sans-serif ;}
+ 
+ h2{border: 0.3vh solid #daa520;
+font-size:4vw;
+   background-color:blanchedalmond;
+         border-radius:1.5vh;
+         text-align:center;
+         padding:2vw;
+ }
+ h3{border:20px;
+         border-radius:1.5vh;
+         text-align:center;
+font-size:3vw;
+padding:2vw;
+         
+ }
+ ul{
+border: 0.3vh solid #daa520;
+background-color:bisque;
+         border-radius:1.5vh;
+font-size:3vw;
+padding:4vw;
+ }
+ 
+ table{
+border: 0.3vh solid #daa520;
+   
+background-color:blanchedalmond;
+         border-radius:1.5vh;
+         text-align:center;
+font-size:3vw;padding: 4vw;
+ }
+ #memb{
+border: 0.3vh solid #daa520;
+background-color:blanchedalmond;
+         border-radius:1.5vh;
+         text-align:align;
+font-size:3vw;padding:4vw;
+ }
+ li{
+   padding:0.15vw
+  
+ }
+ dd{
+border: 0.3vh solid #daa520;
+   
+background-color:blanchedalmond;
+         border-radius:1.5vh;
+         text-align:left;
+font-size:3vw;padding:4vw;
+ }
+ dt{
+border: 0.3vh solid #daa520;
+   
+background-color:blanchedalmond;
+         border-radius:1.5vh;
+         text-align:left;
+font-size:3vw;padding:4vw;
+ }
+ a:link{
+   
+   color:darkgoldenrod;
+ }
+
+.pagination{
+text-align:center;
+font-size:4vh;
+}
+
+.pagination a.active{
+ font-weight:Semi Bold;
+text-decoration:none;
+background-color:goldenrod ;
+border-radius:5vh;
+color:black;
+
+}
+
+.pagination a{
+color:black;
+padding:5px 10px;
+display:inline-block;
+}
+
+.pagination a:hover:not(active){
+
+background-color:bisque ;
+border-radius:5vh;
+
+}
+h4{
+border:20px;
+         border-radius:1.5vh;
+         text-align:center;
+font-size:2vw;
+padding:2vw;
+}
+
+a:visited {
+  color: goldenrod;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+

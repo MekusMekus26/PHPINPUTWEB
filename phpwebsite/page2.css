@@ -1,0 +1,35 @@
+body{
+    background-color:rgba(13, 0, 20, 1) ;
+    margin: 0;
+    padding: 0;
+    }
+main{
+        font-size: 2vw;
+        margin:5vw;
+        border-radius: 2vw;
+        color:black ;
+        text-align: center;
+        background-color: #301934;
+        border:solid .2vw #BC13fe;
+    
+    
+    }
+p{
+    border-radius: 2vw;
+    background-color: #301934;
+        font-size: 2vw;
+        color:#BC13fe;
+        padding:1.3vw;
+        }
+img{
+    height: 40%;
+    width: 20%;
+padding:1vw;
+border-radius: 2vw;
+        color:black ;
+        text-align: center;
+        background-color: #301934;
+        border:solid .2vw #BC13fe;
+    display:flex;
+    float:left;
+}
